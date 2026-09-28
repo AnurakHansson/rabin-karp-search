@@ -1,0 +1,17 @@
+{
+  "name": "rabin-karp-search",
+  "version": "0.1.0",
+  "description": "Finds all occurrences of a pattern in text using a rolling hash algorithm for efficient multi-pattern matching.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
